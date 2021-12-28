@@ -1,0 +1,19 @@
+baseball
+baseball bat
+cleats
+cricket bat
+football
+goggles
+googles
+helmet
+hockey puck
+hockey stick
+lacrosse ball
+lacrosse stick
+shinguards
+shuttlecock
+skates
+sneakers
+swimming cap
+tennis ball
+tennis racket
